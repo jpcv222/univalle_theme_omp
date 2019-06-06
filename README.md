@@ -4,7 +4,7 @@
 
 Locate this repository in your OMP folder like this:
 
-omp/plugins/themes/univalle
+> omp/plugins/themes/univalle
 
 ## License
 
