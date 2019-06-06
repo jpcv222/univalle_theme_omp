@@ -17,7 +17,7 @@ Third parties are welcome to modify and redistribute OJS in entirety or parts
 according to the terms of this license. PKP also welcomes patches for
 improvements or bug fixes to the software.
 
-This theme is customized to be used in the OMP Universidad del Valle site
+This theme is customized to be used in the OMP Universidad del Valle site.
 
 [pkp]: https://pkp.sfu.ca/
 [readme]: docs/README.md
