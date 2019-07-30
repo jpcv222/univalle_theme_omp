@@ -85,14 +85,13 @@ class UnivalleThemePlugin extends ThemePlugin {
 	 * @return string
 	 */
 	function getDisplayName() {
-		return __('plugins.themes.default.name');
-    }
-    
+		return 'Tema Univalle';
+	}
 	/**
 	 * Get the description of this plugin
 	 * @return string
 	 */
 	function getDescription() {
-		return __('plugins.themes.default.description');
+		return 'Tema customizado por la Universidad del Valle, partiendo de el tema por defecto';
 	}
 }
