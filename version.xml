@@ -2,19 +2,20 @@
 <!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
 
 <!--
-  * plugins/themes/univalle/version.xml
+  * plugins/themes/default/version.xml
   *
-  * Author: Juan Pablo Castro
+  * Copyright (c) 2014-2017 Simon Fraser University Library
+  * Copyright (c) 2003-2017 John Willinsky
   * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
   *
   * Plugin version information.
   -->
 
 <version>
-	<application>univalle</application>
+	<application>default</application>
 	<type>plugins.themes</type>
 	<release>1.0.0.0</release>
-	<date>2019-06-06</date>
+	<date>2013-09-16</date>
 	<lazy-load>1</lazy-load>
-	<class>UnivalleThemePlugin</class>
+	<class>DefaultThemePlugin</class>
 </version>
