@@ -1,17 +1,23 @@
 <?php
+
 /**
- * @file plugins/themes/univalle/UnivalleThemePlugin.inc.php
+ * @defgroup plugins_themes_default Default theme plugin
+ */
+
+/**
+ * @file plugins/themes/default/index.php
  *
-* Author: Juan Pablo Castro
+ * Copyright (c) 2014-2017 Simon Fraser University Library
+ * Copyright (c) 2003-2017 John Willinsky
  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
  *
- * @class UnivalleThemePlugin
  * @ingroup plugins_themes_default
+ * @brief Wrapper for default theme plugin.
  *
- * @brief Univalle theme
  */
 
 require_once('UnivalleThemePlugin.php');
+
 
 return new UnivalleThemePlugin();
 
